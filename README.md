@@ -94,10 +94,10 @@ Every AI feature proposed directly moves this number.
 ## 🖼️ Project Visuals
 
 ### User Journey Map
-![User Journey Map](./user-journey-map.png)
+![User Journey Map]()
 
 ### AI Intervention Map
-![AI Intervention Map](./ai-intervention-map.png)
+![AI Intervention Map](assets/AI Intervention Map.png)
 
 ---
 
