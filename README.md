@@ -69,7 +69,7 @@ Every AI feature proposed directly moves this number.
 
 | Deliverable | Tool | Link |
 |---|---|---|
-| Full Teardown Document | Notion | [View →](https://app.notion.com/p/AI-First-Zepto-A-Product-Strategy-Teardown-2beeee709dfd80a794c7cb7c5edba1e3?source=copy_link) |
+| Full Teardown Document | Notion | [View →](https://www.notion.so/AI-First-Zepto-A-Product-Strategy-Teardown-2beeee709dfd80a794c7cb7c5edba1e3?source=copy_link) |
 | User Journey Map | Figma | [View →](https://www.figma.com/design/9Ymbwp8knhDDTYH45efbkt/Zepto-AI-%E2%80%94-User-Journey---AI-Intervention-Map?node-id=0-1&t=bRSr47wvsWKHHsrP-1) |
 | AI Intervention Map | Figma | [View →](https://www.figma.com/design/9Ymbwp8knhDDTYH45efbkt/Zepto-AI-%E2%80%94-User-Journey---AI-Intervention-Map?node-id=0-1&t=bRSr47wvsWKHHsrP-1) |
 | Sprint Planning Board | JIRA | [View →](https://dtu-team-gqfo4uqr.atlassian.net/jira/software/projects/ZAPSRK/boards/34/backlog?atlOrigin=eyJpIjoiZmI2OTFhZjY4YTcwNDJjMGFhZjllZmVjM2E1ZGE4YWUiLCJwIjoiaiJ9) |
